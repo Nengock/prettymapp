@@ -1,0 +1,64 @@
+{
+  "address": "monas, jakarta, indonesia",
+  "aoi_bounds": [
+    106.81914675610692,
+    -6.183431368467316,
+    106.83519153735419,
+    -6.167373428993652
+  ],
+  "draw_settings": {
+    "urban": {
+      "cmap": [
+        "#FFC857",
+        "#E9724C",
+        "#e04d27"
+      ],
+      "ec": "#2F3737",
+      "lw": 0.5,
+      "zorder": 4
+    },
+    "water": {
+      "fc": "#a1e3ff",
+      "ec": "#85c9e6",
+      "hatch": "ooo...",
+      "hatch_c": "#2F3737",
+      "lw": 1,
+      "zorder": 1
+    },
+    "grassland": {
+      "fc": "#D0F1BF",
+      "ec": "#2F3737",
+      "lw": 1,
+      "zorder": 2
+    },
+    "woodland": {
+      "fc": "#64B96A",
+      "ec": "#2F3737",
+      "lw": 1,
+      "zorder": 2
+    },
+    "streets": {
+      "fc": "#2F3737",
+      "zorder": 3
+    },
+    "other": {
+      "fc": "#F2F4CB",
+      "ec": "#2F3737",
+      "lw": 1,
+      "zorder": 3
+    }
+  },
+  "name_on": true,
+  "name": "< WORK HERE! :)",
+  "font_size": 36,
+  "font_color": "#0c0c0c",
+  "text_x": 35,
+  "text_y": -45,
+  "text_rotation": -24,
+  "shape": "rectangle",
+  "contour_width": 1,
+  "contour_color": "#cef7f7",
+  "bg_shape": "rectangle",
+  "bg_buffer": 2,
+  "bg_color": "#f1f1e5"
+}

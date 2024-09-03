@@ -35,7 +35,7 @@ simplified configuration interfaces. It is partially tested and adds a [streamli
 git clone https://github.com/chrieke/prettymapp.git
 cd prettymapp
 pip install -r streamlit-prettymapp/requirements.txt
-streamlit run streamlit-prettymapp/app.py
+python -m streamlit run streamlit-prettymapp/app.py 
 ```
 
 ## Python package

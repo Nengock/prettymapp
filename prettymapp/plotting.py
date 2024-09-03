@@ -86,7 +86,7 @@ class Plot:
             self.set_map_contour()
         if self.name_on:
             self.set_name()
-        self.set_credits(add_package_credit=True)
+        self.set_credits(add_package_credit=False)
 
         return self.fig
 
